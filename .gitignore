@@ -20,3 +20,5 @@ FUTURE-TOPICS
 05-Terraform-Loops-MetaArguments-SplatOperator/05-01-MetaArgument-Count-For-Loops-Lists-Maps/terraform-manifests/.terraform.lock.hcl
 07-AWS-EC2Instance-and-SecurityGroups/terraform-manifests/.terraform.lock.hcl
 07-AWS-EC2Instance-and-SecurityGroups/terraform-manifests/local-exec-output-files/creation-time-vpc-id.txt
+07-AWS-EC2Instance-and-SecurityGroups/terraform-manifests/local-exec-output-files/destroy-time-prov.txt
+09-AWS-ALB-Application-LoadBalancer-Basic/terraform-manifests/.terraform.lock.hcl
